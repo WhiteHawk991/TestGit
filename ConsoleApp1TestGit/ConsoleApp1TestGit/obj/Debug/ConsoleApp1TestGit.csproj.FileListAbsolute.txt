@@ -1,0 +1,7 @@
+C:\ProgramData\VS\TestGit\ConsoleApp1TestGit\ConsoleApp1TestGit\bin\Debug\ConsoleApp1TestGit.exe.config
+C:\ProgramData\VS\TestGit\ConsoleApp1TestGit\ConsoleApp1TestGit\bin\Debug\ConsoleApp1TestGit.exe
+C:\ProgramData\VS\TestGit\ConsoleApp1TestGit\ConsoleApp1TestGit\bin\Debug\ConsoleApp1TestGit.pdb
+C:\ProgramData\VS\TestGit\ConsoleApp1TestGit\ConsoleApp1TestGit\obj\Debug\ConsoleApp1TestGit.csproj.SuggestedBindingRedirects.cache
+C:\ProgramData\VS\TestGit\ConsoleApp1TestGit\ConsoleApp1TestGit\obj\Debug\ConsoleApp1TestGit.csproj.CoreCompileInputs.cache
+C:\ProgramData\VS\TestGit\ConsoleApp1TestGit\ConsoleApp1TestGit\obj\Debug\ConsoleApp1TestGit.exe
+C:\ProgramData\VS\TestGit\ConsoleApp1TestGit\ConsoleApp1TestGit\obj\Debug\ConsoleApp1TestGit.pdb
